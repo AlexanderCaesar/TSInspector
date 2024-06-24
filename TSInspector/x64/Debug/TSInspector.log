@@ -1,0 +1,16 @@
+﻿  analysis.cpp
+C:\Users\Tang Jingyuan\Downloads\TSInspector-main\source\analysis.cpp(133,59): warning C4474: fprintf: 格式字符串中传递的参数太多
+C:\Users\Tang Jingyuan\Downloads\TSInspector-main\source\analysis.cpp(133,59): message : 占位符和其参数预计 0 可变参数，但提供的却是 1 参数
+C:\Users\Tang Jingyuan\Downloads\TSInspector-main\source\analysis.cpp(609,21): warning C4477: “fprintf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+C:\Users\Tang Jingyuan\Downloads\TSInspector-main\source\analysis.cpp(609,21): message : 请考虑在格式字符串中使用“%llX”
+C:\Users\Tang Jingyuan\Downloads\TSInspector-main\source\analysis.cpp(609,21): message : 请考虑在格式字符串中使用“%IX”
+C:\Users\Tang Jingyuan\Downloads\TSInspector-main\source\analysis.cpp(609,21): message : 请考虑在格式字符串中使用“%I64X”
+C:\Users\Tang Jingyuan\Downloads\TSInspector-main\source\analysis.cpp(611,21): warning C4477: “fprintf”: 格式字符串“%X”需要类型“unsigned int”的参数，但可变参数 1 拥有了类型“unsigned __int64”
+C:\Users\Tang Jingyuan\Downloads\TSInspector-main\source\analysis.cpp(611,21): message : 请考虑在格式字符串中使用“%llX”
+C:\Users\Tang Jingyuan\Downloads\TSInspector-main\source\analysis.cpp(611,21): message : 请考虑在格式字符串中使用“%IX”
+C:\Users\Tang Jingyuan\Downloads\TSInspector-main\source\analysis.cpp(611,21): message : 请考虑在格式字符串中使用“%I64X”
+  param.cpp
+  ts.cpp
+  tsflie.cpp
+  正在生成代码...
+  TSInspector.vcxproj -> C:\Users\Tang Jingyuan\Downloads\TSInspector-main\TSInspector\x64\Debug\TSInspector.exe
